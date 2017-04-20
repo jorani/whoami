@@ -1,0 +1,18 @@
+{
+    "name": "jorani/whoami",
+    "description": "Demo OAuth2 based application showing how to use Jorani as an Identity Provider",
+    "type": "project",
+    "license": "AGPL-v3",
+    "authors": [
+        {
+            "name": "Benjamin Balet",
+            "email": "benjamin.balet@gmail.com"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.1",
+        "guzzlehttp/guzzle": "^6.2",
+        "league/oauth2-client": "^2.2",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
