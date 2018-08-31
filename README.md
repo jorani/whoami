@@ -3,6 +3,12 @@
 
 This is an example of a SSO scenario based on OAuth2 protocol.
 
+## Installation
+
+1. Download or clone the repository.
+2. Update the 3rd party libraries with `composer install`
+3. Copy EXAMPLE.env to .env according to the values you will choose in the next paragraph.
+
 ## Instructions
 
 1. You need a Jorani instance with at least v0.6.0 (e.g. https://demo.jorani.org/)
